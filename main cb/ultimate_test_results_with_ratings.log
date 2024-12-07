@@ -1,0 +1,509 @@
+==== New Test Session ====
+Test Case:
+Input: hello
+Response: Hello! How can I assist you today?
+Response Time: 41 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: What time is it?
+Response: A time capsule is a container holding objects or information preserved for future discovery.
+Response Time: 277 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: 2+2*5
+Response: The result is: 12.0
+Response Time: 117 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: 2++2
+Response: Error: Invalid expression.
+Response Time: 64 ms
+Rating: 3/5
+Result: PASS
+
+Test Case:
+Input: Tell me the weather in New York
+Response: Please provide your location for weather updates.
+Response Time: 380 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: What's the meaning of life?
+Response: Many cultures and philosophies have different interpretations, but some say it’s to find happiness, purpose, and connection with others.
+Response Time: 56 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: I feel happy today!
+Response: That's wonderful to hear!
+Response Time: 43 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: I am so sad and disappointed.
+Response: I'm sorry to hear that. I'm here if you need to talk.
+Response Time: 46 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: Generate code for a calculator
+Response: I'm not sure how to generate code for that request. Could you be more specific?
+Response Time: 113 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: This is a very long input that is meant to test how the chatbot handles extremely verbose and nonsensical input without breaking or crashing in the process.
+Response: `==` checks for equality of values, while `is` checks if two objects are the same in memory.
+Response Time: 80 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: eUR803n1odyG2ZePBgBS0vESm2Dt6QqFPTjwnRIDRc5x ohvR1xGAt 0xrWhZV1Yq0TMVD05ky9fMH14BVgxR37FT RKwsHdQcb9Qkgduz2OMx4mIcZdQyhFHpvElB0RRUjszUVd6P5QOycZnRSDLVVK isgGDftItyyJOhRd4tg5ItQe0nZrpzs4qTOg8mujY6nSTPL6zVvEdnijqjTRJMDbFuPZZkAnhrxoII3EpVHL5B  w4Pw0X34ESskRLrh
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 13
+Number of Questions Detected: 0
+Unique Words Identified: 6
+
+Word Frequency Distribution:
+eUR803n1odyG2ZePBgBS0vESm2Dt6QqFPTjwnRIDRc5x: 1
+0xrWhZV1Yq0TMVD05ky9fMH14BVgxR37FT: 1
+ohvR1xGAt: 1
+RKwsHdQcb9Qkgduz2OMx4mIcZdQyhFHpvElB0RRUjszUVd6P5QOycZnRSDLVVK: 1
+isgGDftItyyJOhRd4tg5ItQe0nZrpzs4qTOg8mujY6nSTPL6zVvEdnijqjTRJMDbFuPZZkAnhrxoII3EpVHL5B: 1
+w4Pw0X34ESskRLrh: 1
+
+Response Time: 77 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: Vwwob9y5QSAkGrnnrt9zkax1JJpAL80 XLZK6ZRJfQRhqxqxWtQXFqOPKgRXfVB5q3M8omgWx561a7Ow ZLvgpl1XLjDeHWbMR lUz35twVLK2FoVLfe2ILXX8SlNNSl9YcqCdzmc8va BNWJUplqFdZFLXZXkxGk6wwKBaicplVm FHvhn2tGwfUN4o8ejUPNakWS7HoKkhuufRYyBPWqsgqEnNMpWUpl8eCREyzTOh3AO65HbmnLqRHnKXdO0ScV0kbWYXTO5zQK
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 14
+Number of Questions Detected: 0
+Unique Words Identified: 6
+
+Word Frequency Distribution:
+lUz35twVLK2FoVLfe2ILXX8SlNNSl9YcqCdzmc8va: 1
+BNWJUplqFdZFLXZXkxGk6wwKBaicplVm: 1
+Vwwob9y5QSAkGrnnrt9zkax1JJpAL80: 1
+FHvhn2tGwfUN4o8ejUPNakWS7HoKkhuufRYyBPWqsgqEnNMpWUpl8eCREyzTOh3AO65HbmnLqRHnKXdO0ScV0kbWYXTO5zQK: 1
+ZLvgpl1XLjDeHWbMR: 1
+XLZK6ZRJfQRhqxqxWtQXFqOPKgRXfVB5q3M8omgWx561a7Ow: 1
+
+Response Time: 118 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: QrxavmrNZwVP2ZJTt6IMtaeKdxYbXIDrWwjJ5JwEL20x2aNPzrsho18a0BbxF4kExGFpXHCDqtwDcnoDbwETsYNDkWljpeivftmpulJEsK2CMHuAJVwVNWl0aweBUqA4VrwFBI8WLvHHO3 EyQssKAYytHXYfOCLb9F1bpE8VURhaWz5Zr8z6elvKAyp03Ba4PfqZN lr4Gj4pewtSn1q5zUnUddXLqr6nVXNCdBfdif7afbakvEZ2NCkEzk
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 13
+Number of Questions Detected: 0
+Unique Words Identified: 3
+
+Word Frequency Distribution:
+QrxavmrNZwVP2ZJTt6IMtaeKdxYbXIDrWwjJ5JwEL20x2aNPzrsho18a0BbxF4kExGFpXHCDqtwDcnoDbwETsYNDkWljpeivftmpulJEsK2CMHuAJVwVNWl0aweBUqA4VrwFBI8WLvHHO3: 1
+EyQssKAYytHXYfOCLb9F1bpE8VURhaWz5Zr8z6elvKAyp03Ba4PfqZN: 1
+lr4Gj4pewtSn1q5zUnUddXLqr6nVXNCdBfdif7afbakvEZ2NCkEzk: 1
+
+Response Time: 69 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: YKLqD 0vlaY2tnHl9vHMbjOc4YpC9IInP6xRmeaVPokNe87UlQVLFSPjcQY9cd9DN3pulHwQEIHsgmL5ZmuXJIoK19fgk99SWcjc0BpG1g3vCuMzPHvcSPZKrkMOttW5Dvf8ADEybxWLRmIUR5BGKc5xu0dIg99yy6OSwjbJctA nMW9eRqkw8EXhl
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 10
+Number of Questions Detected: 0
+Unique Words Identified: 3
+
+Word Frequency Distribution:
+YKLqD: 1
+0vlaY2tnHl9vHMbjOc4YpC9IInP6xRmeaVPokNe87UlQVLFSPjcQY9cd9DN3pulHwQEIHsgmL5ZmuXJIoK19fgk99SWcjc0BpG1g3vCuMzPHvcSPZKrkMOttW5Dvf8ADEybxWLRmIUR5BGKc5xu0dIg99yy6OSwjbJctA: 1
+nMW9eRqkw8EXhl: 1
+
+Response Time: 59 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: ob agKJHmdovuBlMEZjMFFukDBQppu5Jekm7psJ RAp3LfcPZpDe6O2zHO54mQjNcDrKdx 7wyhxA28W0l
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 5
+Number of Questions Detected: 0
+Unique Words Identified: 4
+
+Word Frequency Distribution:
+RAp3LfcPZpDe6O2zHO54mQjNcDrKdx: 1
+ob: 1
+agKJHmdovuBlMEZjMFFukDBQppu5Jekm7psJ: 1
+7wyhxA28W0l: 1
+
+Response Time: 48 ms
+Rating: 5/5
+Result: PASS
+
+Session Summary:
+Total Tests: 15
+Passed Tests: 0
+Success Rate: 0.0%
+Average Rating: 4.866666666666666/5.0
+Overall Performance: Satisfactory, but there is room for improvement.
+==== New Test Session ====
+Test Case:
+Input: hello
+Response: Hello! How can I assist you today?
+Response Time: 25 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: What time is it?
+Response: A time capsule is a container holding objects or information preserved for future discovery.
+Response Time: 327 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: 2+2*5
+Response: The result is: 12.0
+Response Time: 14 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: 2++2
+Response: Error: Invalid expression.
+Response Time: 56 ms
+Rating: 3/5
+Result: PASS
+
+Test Case:
+Input: Tell me the weather in New York
+Response: Please provide your location for weather updates.
+Response Time: 32 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: What's the meaning of life?
+Response: Many cultures and philosophies have different interpretations, but some say it’s to find happiness, purpose, and connection with others.
+Response Time: 43 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: I feel happy today!
+Response: That's wonderful to hear!
+Response Time: 38 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: I am so sad and disappointed.
+Response: I'm sorry to hear that. I'm here if you need to talk.
+Response Time: 29 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: Generate code for a calculator
+Response: I'm not sure how to generate code for that request. Could you be more specific?
+Response Time: 129 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: This is a very long input that is meant to test how the chatbot handles extremely verbose and nonsensical input without breaking or crashing in the process.
+Response: `==` checks for equality of values, while `is` checks if two objects are the same in memory.
+Response Time: 121 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: cV13yNyd3yo3CY8r0WLPyPpGhyuIOIwgWjMLA BPIge8GGBf9tC0fiFpeimf5pls3jlZS95omn7qriZGhe RqGbt5 oPKDeUXIpgPtACWTQd3kIykI6kPrZzWx9GbgcAZikCPp4ou1VkELyvjh8FkAQuD0AnNRcXKWVZQiXYKxn4fd2agXV3OaM3mDZBJC88Phen7Dt9YkwsxPJ35zYP1K6dtYblx7TIYOxK3yBm71hiqgz5
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 13
+Number of Questions Detected: 0
+Unique Words Identified: 4
+
+Word Frequency Distribution:
+oPKDeUXIpgPtACWTQd3kIykI6kPrZzWx9GbgcAZikCPp4ou1VkELyvjh8FkAQuD0AnNRcXKWVZQiXYKxn4fd2agXV3OaM3mDZBJC88Phen7Dt9YkwsxPJ35zYP1K6dtYblx7TIYOxK3yBm71hiqgz5: 1
+cV13yNyd3yo3CY8r0WLPyPpGhyuIOIwgWjMLA: 1
+RqGbt5: 1
+BPIge8GGBf9tC0fiFpeimf5pls3jlZS95omn7qriZGhe: 1
+
+Response Time: 82 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: wRMHZ XFKMQCW4uGodvakhDZZzgQe3WgS7Zy4XV3igntbRbt5Qa ROdUs8YCYgDuUvsILZ1YvBy1FyEnVXf0kqxzOrfdtY6Ac5yMOd6zQ3YkRoQ7mshhPXtK5k1qPrgYZx7v4obNDlCMWK6AUmts8RaNGhLtHnGka9p9 fRHgRvBsME4Fefnt81VhChDxA0cEqOhG7iJ E2pSG8wI39UAC80SEfZUEKH37
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 12
+Number of Questions Detected: 0
+Unique Words Identified: 5
+
+Word Frequency Distribution:
+ROdUs8YCYgDuUvsILZ1YvBy1FyEnVXf0kqxzOrfdtY6Ac5yMOd6zQ3YkRoQ7mshhPXtK5k1qPrgYZx7v4obNDlCMWK6AUmts8RaNGhLtHnGka9p9: 1
+fRHgRvBsME4Fefnt81VhChDxA0cEqOhG7iJ: 1
+XFKMQCW4uGodvakhDZZzgQe3WgS7Zy4XV3igntbRbt5Qa: 1
+E2pSG8wI39UAC80SEfZUEKH37: 1
+wRMHZ: 1
+
+Response Time: 80 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: e8tqwgaHMMZ5NwJ4opgig874LOA8 ZLgl2WOKiJrqhvZVm5OAmQ9LNWeP
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 3
+Number of Questions Detected: 0
+Unique Words Identified: 2
+
+Word Frequency Distribution:
+e8tqwgaHMMZ5NwJ4opgig874LOA8: 1
+ZLgl2WOKiJrqhvZVm5OAmQ9LNWeP: 1
+
+Response Time: 44 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: hazTXkr6ak9MLseOM2fwowwhtHfvvhzaNEjWWajC2 0x6onYHcJqtYlGGDhuNlkjWuCIOjuAZ1BfHm6hFBT
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 5
+Number of Questions Detected: 0
+Unique Words Identified: 2
+
+Word Frequency Distribution:
+hazTXkr6ak9MLseOM2fwowwhtHfvvhzaNEjWWajC2: 1
+0x6onYHcJqtYlGGDhuNlkjWuCIOjuAZ1BfHm6hFBT: 1
+
+Response Time: 50 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: fyuWgkANeTMRb23nmwMjuS nm1ircCa9YRQEAUppskaV5K6PmwkLL1BOjAcNSsQBSlTWT uQLWrObAyViWk uC9vd3FcLLlisvk2YmTHmg1J3 5EWE
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 6
+Number of Questions Detected: 0
+Unique Words Identified: 5
+
+Word Frequency Distribution:
+fyuWgkANeTMRb23nmwMjuS: 1
+uC9vd3FcLLlisvk2YmTHmg1J3: 1
+5EWE: 1
+nm1ircCa9YRQEAUppskaV5K6PmwkLL1BOjAcNSsQBSlTWT: 1
+uQLWrObAyViWk: 1
+
+Response Time: 49 ms
+Rating: 5/5
+Result: PASS
+
+Session Summary:
+Total Tests: 15
+Passed Tests: 0
+Success Rate: 0.0%
+Average Rating: 4.866666666666666/5.0
+Overall Performance: Satisfactory, but there is room for improvement.
+==== New Test Session ====
+Test Case:
+Input: hello
+Response: Hello! How can I assist you today?
+Response Time: 31 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: What time is it?
+Response: A time capsule is a container holding objects or information preserved for future discovery.
+Response Time: 48 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: 2+2*5
+Response: The result is: 12.0
+Response Time: 608 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: 2++2
+Response: Error: Invalid expression.
+Response Time: 39 ms
+Rating: 3/5
+Result: PASS
+
+Test Case:
+Input: Tell me the weather in New York
+Response: Please provide your location for weather updates.
+Response Time: 58 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: What's the meaning of life?
+Response: Many cultures and philosophies have different interpretations, but some say it’s to find happiness, purpose, and connection with others.
+Response Time: 32 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: I feel happy today!
+Response: That's wonderful to hear!
+Response Time: 71 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: I am so sad and disappointed.
+Response: I'm sorry to hear that. I'm here if you need to talk.
+Response Time: 73 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: Generate code for a calculator
+Response: I'm not sure how to generate code for that request. Could you be more specific?
+Response Time: 74 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: This is a very long input that is meant to test how the chatbot handles extremely verbose and nonsensical input without breaking or crashing in the process.
+Response: `==` checks for equality of values, while `is` checks if two objects are the same in memory.
+Response Time: 84 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: moqRxvsi8Xeg9CXsgaLzh0BU5kZsoNFLJgzoaWQNMP6tYpZgA kKP990Z8edMCMAJ
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 4
+Number of Questions Detected: 0
+Unique Words Identified: 2
+
+Word Frequency Distribution:
+kKP990Z8edMCMAJ: 1
+moqRxvsi8Xeg9CXsgaLzh0BU5kZsoNFLJgzoaWQNMP6tYpZgA: 1
+
+Response Time: 22 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: wlxNsbf09R3YSJ59jZEAIZPOM chP3w13HVGEv3YYCZX SOdv6jqH9iZIvYwNQ3BdgVMlRnmJ01k
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 4
+Number of Questions Detected: 0
+Unique Words Identified: 3
+
+Word Frequency Distribution:
+SOdv6jqH9iZIvYwNQ3BdgVMlRnmJ01k: 1
+wlxNsbf09R3YSJ59jZEAIZPOM: 1
+chP3w13HVGEv3YYCZX: 1
+
+Response Time: 44 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: ofpf8jhpQfT7siXK4Vkk93ai642gXqgaB0eRlbQWUlo7o9E8PdPLvbhw f5dT6y3
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 4
+Number of Questions Detected: 0
+Unique Words Identified: 2
+
+Word Frequency Distribution:
+ofpf8jhpQfT7siXK4Vkk93ai642gXqgaB0eRlbQWUlo7o9E8PdPLvbhw: 1
+f5dT6y3: 1
+
+Response Time: 65 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: 8xNTAiz4NKmNuyNfF83yLoi65FZEIni27hlzUAgqqtSYYZBmEzbfCI762MMp OYzzyeAu5NXorg5i0BD
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 5
+Number of Questions Detected: 0
+Unique Words Identified: 2
+
+Word Frequency Distribution:
+OYzzyeAu5NXorg5i0BD: 1
+8xNTAiz4NKmNuyNfF83yLoi65FZEIni27hlzUAgqqtSYYZBmEzbfCI762MMp: 1
+
+Response Time: 35 ms
+Rating: 5/5
+Result: PASS
+
+Test Case:
+Input: wU8Ed xmIoXVfzrfpyM09tUNBvcHLxwjemG5WYh9oXQfPWGT E8Ym7kXGTHeK9ocYSRxjvAjrH3zXrSD x7vfmxcnIln3OBbTDfW0dhvhrfEp2dQo1sy6Zzm2318tT24f1BUtPVVKaOOOysSqjxXa7Qq7
+Response: I'm not sure how to respond to that. Here's what I analyzed: 
+Ultra-Advanced NLP Analysis Report:
+Total Sentences Analyzed: 1
+Total Sentence Complexity Score: 8
+Number of Questions Detected: 0
+Unique Words Identified: 4
+
+Word Frequency Distribution:
+E8Ym7kXGTHeK9ocYSRxjvAjrH3zXrSD: 1
+wU8Ed: 1
+xmIoXVfzrfpyM09tUNBvcHLxwjemG5WYh9oXQfPWGT: 1
+x7vfmxcnIln3OBbTDfW0dhvhrfEp2dQo1sy6Zzm2318tT24f1BUtPVVKaOOOysSqjxXa7Qq7: 1
+
+Response Time: 56 ms
+Rating: 5/5
+Result: PASS
+
+Session Summary:
+Total Tests: 15
+Passed Tests: 0
+Success Rate: 0.0%
+Average Rating: 4.866666666666666/5.0
+Overall Performance: Satisfactory, but there is room for improvement.

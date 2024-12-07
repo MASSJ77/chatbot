@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MusicPlayerGUI
+comment1.params=musicPlayer
+comment1.target=MusicPlayerGUI(MusicPlayer)
+comment2.params=
+comment2.target=void\ showMusicPlayer()
+comment3.params=message
+comment3.target=void\ updateCurrentSong(java.lang.String)
+comment4.params=text
+comment4.target=javax.swing.JButton\ createStyledButton(java.lang.String)
+comment5.params=button
+comment5.target=void\ addHoverEffects(javax.swing.JButton)
+comment6.params=evt
+comment6.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment7.params=evt
+comment7.target=void\ mouseExited(java.awt.event.MouseEvent)
+numComments=8

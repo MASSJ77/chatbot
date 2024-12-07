@@ -1,0 +1,30 @@
+Question: What is the capital of France?
+Expected: Paris
+Actual: Paris
+Evaluation: Correct
+
+-------------------------------------------------
+Question: How are you today?
+Expected: I'm fine, thank you.
+Actual: I'm fine, thank you.
+Evaluation: Correct
+
+-------------------------------------------------
+Question: What do you think about AI?
+Expected: AI is fascinating.
+Actual: AI is fascinating.
+Evaluation: Correct
+
+-------------------------------------------------
+Question: What is 15 + 27?
+Expected: 42
+Actual: 42
+Evaluation: Correct
+
+-------------------------------------------------
+Question: Write a function to reverse a string.
+Expected: function reverseString
+Actual: function reverseString(str) { return str.split('').reverse().join(''); }
+Evaluation: Incorrect
+
+-------------------------------------------------
